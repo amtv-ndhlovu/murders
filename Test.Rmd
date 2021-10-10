@@ -1,0 +1,12 @@
+---
+title: "Test"
+author: "Tebogo Ndhlovu"
+date: "10/10/2021"
+output: html_document
+---
+
+```{r, echo = F}
+n <- nrow(mtcars)
+
+```
+Here `r n` cars are compared
